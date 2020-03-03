@@ -1,1 +1,7 @@
-1
+1.tableone: Create 'Table 1' to Describe Baseline Characteristics
+
+Creates 'Table 1'
+
+2.airqualityES: Air Quality Measurements in Spain from 2011 to 2018
+
+It contains daily quality air measurements in Spain over a period of 18 years (from 2001 to 2018).
