@@ -5,3 +5,7 @@ Creates 'Table 1'
 2.airqualityES: Air Quality Measurements in Spain from 2011 to 2018
 
 It contains daily quality air measurements in Spain over a period of 18 years (from 2001 to 2018).
+
+3.HH: Statistical Analysis and Data Display: Heiberger and Holland
+
+Support software for Statistical Analysis and Data Display by Richard M. Heiberger and Burt Holland. 
