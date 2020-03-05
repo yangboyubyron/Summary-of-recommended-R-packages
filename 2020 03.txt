@@ -8,4 +8,32 @@ It contains daily quality air measurements in Spain over a period of 18 years (f
 
 3.HH: Statistical Analysis and Data Display: Heiberger and Holland
 
-Support software for Statistical Analysis and Data Display by Richard M. Heiberger and Burt Holland. 
+Support software for Statistical Analysis and Data Display by Richard M. Heiberger and Burt Holland.
+
+4.deepNN: Deep Learning
+
+Implementation of some Deep Learning methods.
+
+5.harrypotter: Palettes Generated from All "Harry Potter" Movies
+
+Harry Potter movie 
+
+6.pesel: Automatic Estimation of Number of Principal Components in PCA
+
+PCA 
+
+7.SuperPCA: Supervised Principal Component Analysis
+
+PCA
+
+8.tidyquant: Tidy Quantitative Financial Analysis
+
+FANG plots! ***
+
+9.ggenealogy: Visualization Tools for Genealogical Data
+
+Methods for genealogical data.
+
+10.miscFuncs: Miscellaneous Useful Functions Including LaTeX Tables, Kalman Filtering and Development Tools
+
+Kalman filter.
