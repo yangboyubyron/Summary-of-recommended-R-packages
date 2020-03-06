@@ -37,3 +37,15 @@ Methods for genealogical data.
 10.miscFuncs: Miscellaneous Useful Functions Including LaTeX Tables, Kalman Filtering and Development Tools
 
 Kalman filter.
+
+11.golem: A Framework for Robust Shiny Applications
+
+An opinionated framework for 'Shiny'. 
+
+12.rEDM: Applications of Empirical Dynamic Modeling from Time Series
+
+A new implementation of EDM algorithms.
+
+13.nima: Nima Hejazi's R Toolbox
+
+R package!***
