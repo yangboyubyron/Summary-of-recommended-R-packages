@@ -49,3 +49,19 @@ A new implementation of EDM algorithms.
 13.nima: Nima Hejazi's R Toolbox
 
 R package!***
+
+14.BayesARIMAX: Bayesian Estimation of ARIMAX Model
+
+BayesARIMAX
+
+15.flextable: Functions for Tabular Reporting
+
+Create pretty tables for 'HTML', 'Microsoft Word' and 'Microsoft PowerPoint' documents. 
+
+16.Gmisc: Descriptive Statistics, Transition Plots, and More
+
+Tools for making the descriptive "Table 1".
+
+17.ggstatsplot: 'ggplot2' Based Plots with Statistical Details
+
+Extension of 'ggplot2'***
