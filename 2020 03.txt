@@ -65,3 +65,19 @@ Tools for making the descriptive "Table 1".
 17.ggstatsplot: 'ggplot2' Based Plots with Statistical Details
 
 Extension of 'ggplot2'***
+
+18.ipmisc: Miscellaneous Functions for Data Cleaning and Analysis
+
+Provides functions needed for data cleaning
+
+19.FactorAssumptions: Set of Assumptions for Factor and Principal Component Analysis
+
+Tests for Kaiser-Meyer-Olkin (KMO) and communalities in a dataset
+
+20.ggrepel: Automatically Position Non-Overlapping Text Labels with 'ggplot2'
+
+Provides text and label geoms for 'ggplot2'***
+
+21.FSinR: Feature Selection
+
+Feature subset selection algorithms
