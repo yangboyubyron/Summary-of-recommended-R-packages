@@ -81,3 +81,10 @@ Provides text and label geoms for 'ggplot2'***
 21.FSinR: Feature Selection
 
 Feature subset selection algorithms
+
+22.sjPlot: Data Visualization for Statistics in Social Science
+plotKML: Visualization of Spatial and Spatio-Temporal Objects in Google Earth
+eulerr: Area-Proportional Euler and Venn Diagrams with Ellipses
+glmnetUtils: Utilities for 'Glmnet'
+ggplotify: Convert Plot to 'grob' or 'ggplot' Object
+DescTools: Tools for Descriptive Statistics
